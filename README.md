@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leo-Rivera
-- 👀 I’m interested in ...becoming in DevOps
+- 👀 I’m interested in ...be a good DevOps
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... a start up
 - 📫 How to reach me ... leandrosanabria@icloud.com
